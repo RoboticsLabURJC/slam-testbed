@@ -11,8 +11,8 @@ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 ## Build:
 ```
 git clone https://github.com/JdeRobot/slam-testbed.git
-git checkout debugging
 cd slam-testbed
+git checkout debugging
 mkdir build 
 cd build 
 cmake ..
